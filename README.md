@@ -1,14 +1,14 @@
 # Hiring
 
-Hi! If you are reading this you might be interested in working with us.
+Hi! If you are reading this you might be interested in working with us. And we’re definitely interested to know more about you!
 
 We are Hash, an infrastructure for payments and financial services, and our mission is to enable anyone to build the best financial experience.
 
-We are constantly seeking people that want to change the way the payment market is structured today. We are building a new infrastructure that allows the entrance of new payment players on a R$1.4tri market dominated by a few companies for the past 15 years. We do this by offering a platform where any company can be their own payment service.
+We are constantly seeking people that want to change the way the payment market is structured today. We are building a new infrastructure that allows the entrance of new payment players on a R$1.4tri market(only in Brazil) dominated by a few companies for the past 15 years. We do this by offering a platform where any company can be their own payment service.
 
 To build this infrastructure, we need to make an amazing and scalable product. We need the best developers. "Move fast and break things" doesn't really work for the type of system that we want. We tend to reduce technical debt and prioritize quality over a fast release.
 
-We are not attached to a specific set of programming languages or architecture, we have several challenges and we are free to choose the best way to attack each one of them, following state-of-the-art software development practices and choosing the best programming language and stack to solve what we need.
+We are not attached to a specific set of programming languages or architecture, we have several challenges and we are free to choose the best way to attack each one of them, following state-of-the-art software development practices and choosing the best programming language and stack to solve what we need. Here you’ll have an active voice to help us choose the path to reach our mission.
 
 Today we are building:
 
@@ -17,9 +17,9 @@ Today we are building:
 * Continuous Integration and Deployment into AWS, GCLOUD and Azure
 * A highly modular front-end that integrates the design team in the development process
 
-We are looking for people passionate for coding, with experience on building scalable products and exceptional technical background.
+We are looking for people passionate for coding, with experience on building scalable products and exceptional technical background. We are also looking for smart people, fast learners and technology passionates which are able to help us to reach our objectives even with less experience on coding. 
 
-Technology is the most important part of our business, so we need people who want to know more about our market, about how the payment ecosystem works, and help us change it. We want people that connect with our business and we want to build something that will change Brazil. To help finding people that match with us, we've broken down our engineering team core values, you can find them in our [Key:Values page](https://www.keyvalues.com/hash) and see if it fits you.
+Technology and knowledge are the most important parts of our business, so we need people who want to know more about our market, about how the payment ecosystem works, and help us change it. We want people that connect with our business and we want to build something that will change the way that people and companies deals with money. To help finding people that match with us, we've broken down our engineering team core values, you can find them in our [Key:Values page](https://www.keyvalues.com/hash) and see if it fits you.
 
 If you can relate to our mission and want to join us, [check out our current open jobs](https://hashlab.workable.com/)
 
